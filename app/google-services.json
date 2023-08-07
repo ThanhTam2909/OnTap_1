@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500028950944",
+    "project_id": "on-tap-1",
+    "storage_bucket": "on-tap-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500028950944:android:41d664dc5f76d773767cc5",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationontap1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500028950944-2qt0s1kgk1t0d5bv1lomaqn0rs3nln1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sl01hp341IzbEtwty1BEUnwkpUN70y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500028950944-2qt0s1kgk1t0d5bv1lomaqn0rs3nln1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
